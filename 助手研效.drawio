@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T04:53:21.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zeOkvYf5Fw9aEVkteGnk" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T05:00:20.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="62xBtThCRZo-jdjowkYu" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,15 @@
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-52" value="技术栈陈旧，但升级难，研发效率低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="645" y="680" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-54" value="1.&amp;nbsp; 助手业务的架构和技术栈还是从15年立项时确定的，这么多年，随着代码量越来越多，包袱越来越重，团队对于升级技术栈心有余而力不足" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-57" value="2.&amp;nbsp; 和项目组的合作过程中，项目组一般偏强制，他们更强调稳定性，对于新技术的接收没有那么高，而且项目组对版本周期时间卡的比较严，也很少允许在需求增减上讨价环节，导致大家很难抽出时间去做技术优化" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
