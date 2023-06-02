@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T06:15:21.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8NVwLOfmwrO5soWUBZyw" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:26:14.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xmDYwegHGYEowqvBZV3z" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-70" value="2. 开发一个代码质量量化系统，通过具象的客观数据而不是模糊的主观感受去考察团队内每一位同学的代码能力" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1100" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-71" value="3. 定期复盘，总结最近一个周期内大家在写代码过程中遇到的共性问题，以及优化措施，让团队内每一位同学对好代码有一个具象认知，同时界定代码的下限，什么样的代码和涉及在团队中是坚决不能出现的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-71" value="3. 定期复盘，总结最近一个周期内大家在写代码过程中遇到的共性问题，以及优化措施，让团队内每一位同学对好代码有一个具象认知，同时界定代码的下限，什么样的代码和设计在团队中是坚决不能出现的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1200" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-74" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
@@ -195,8 +195,20 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-76" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-77" value="开发与产品各进一步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1030" width="165" height="40" as="geometry" />
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-77" value="从你进我退的拉扯到开发与产品各进一步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1030" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1000" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-81" value="1. 对于通用功能中夹杂的针对不同业务粒度大小不一的差异性，开发侧通过模块抽象、接口抽象、静态配置、动态配置四套规范来解决不同场景下的不一致问题，同时通过上述的CodeReview尽量约束大家按照规范执行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-82" value="2. 和产品约定好，他们在规划通用需求时更加细致，将通用的概念细粒度化，逻辑通用、UI通用还是交互通用？让开发同学在需求开发过程中就处理好差异点，避免后续的反复沟通和返工" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-83" value="3. 开发同学拓展自己的技术栈，同时熟悉Andorid/iOS开发，这样可以从之前的按不同端不同人力来分配需求逐渐转变为同一个需求在不同端上都分配给同一个人力，提升各角色沟通和开发同学编码的效率" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1330" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
