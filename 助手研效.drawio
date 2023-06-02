@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T04:25:38.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1vMMQHb7xBRIBQ6WDLGv" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T04:26:29.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9i6MkyRp7nVoyEXdd_bB" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-25" value="助手团队介入&lt;font color=&quot;#cc0000&quot;&gt;（用于说明助手业务的周期较长，到助手团队接手时已经几经转手，历史包袱重）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="440" as="sourcePoint" />
-            <mxPoint x="130" y="390" as="targetPoint" />
+            <mxPoint x="70" y="290" as="sourcePoint" />
+            <mxPoint x="70" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
