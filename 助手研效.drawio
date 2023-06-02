@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T04:46:56.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pc3Pk37k45WO4F_A105R" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T04:53:21.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zeOkvYf5Fw9aEVkteGnk" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-44" value="P1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="384" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-45" value="通用与割裂并存，幸福与痛苦交织" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="130" height="80" as="geometry" />
@@ -115,7 +115,22 @@
           <mxGeometry x="360" y="510" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-47" value="1. 助手的这边虽然有很多业务App，但除少数长尾业务，其它业务功能基本通用，这样可以让开发同学尽量用一套代码来产出多个业务App，在一定程度上提升效率，这是幸福所在" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="640" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-48" value="2.&amp;nbsp; 通用的功能往往无法达到100%真通用，在一个通用功能中，可能又在不同的业务中存在着UI、交互、逻辑等等许多粒度大小不一的差异性，这给业务之间的沟通成本、开发同学在处理这些不一致的成本带来了极大的负担" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-50" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="650" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-51" value="P2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-52" value="技术栈陈旧，但升级难，研发效率低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
