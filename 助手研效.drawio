@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T05:01:34.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zVYBvpF2PfXkCKAVXLx-" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T05:04:56.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tpRCmnM_MkJvaVq1uZs0" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="1242" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry x="580" y="800" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-57" value="2.&amp;nbsp; 和项目组的合作过程中，项目组一般偏强势，他们更强调稳定性，对于新技术的接收没有那么高，而且项目组对版本周期时间卡的比较严，也很少允许在需求增减上讨价环节，导致大家很难抽出时间去做技术优化" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="890" width="160" height="60" as="geometry" />
+          <mxGeometry x="580" y="900" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,6 +152,12 @@
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-60" value="每个业务的合作模式不一样，导致很难形成标准，各自为战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="880" y="850" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="950" y="870" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-62" value="1. 在UI设计上，不同的项目组找不同的设计团队（有内包，有外包），从而导致没有一套统一的设计标准，开发同学需要花费很多精力处理不同业务之间的样式差异" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885" y="990" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
