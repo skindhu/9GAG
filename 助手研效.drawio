@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T06:57:10.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CmBCiVwTr5lKxq-SCdOp" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:57:46.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JDviJ4dBudjJgwi9nVon" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-88" value="1. 经过分析，助手中产品规划的70%的需求都集中在资讯和动态两个模块，那我们将对助手全量代码进行技术栈升级的思路转变为只对这两个大模块的代码进行技术栈升级能达到最高的ROI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="1295" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-89" value="2.&amp;nbsp; 为了在升级时对产品稳定性的影响降到最低，我们采取将大模块再拆分成小模块，逐步重构，逐步替换，同时开发了业务、模块、页面、功能等多维度开关来控制重构后的模块在线上的灰度策略，一旦出现严重可实时回滚到重构前的模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-89" value="2.&amp;nbsp; 为了在升级时对产品稳定性的影响降到最低，我们采取将大模块再拆分成小模块，逐步重构，逐步替换，同时开发了按照业务、模块、页面、功能等多维度开关来控制重构后的模块在线上的灰度策略，一旦出现严重问题可实时回滚到重构前的模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="1410" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
