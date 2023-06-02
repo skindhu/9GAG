@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:02:35.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ECm-WjOUX2lg0_YskHmJ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:03:05.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NbtZFLeDwQVmh5xQUCDM" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,6 +233,15 @@
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-92" value="3.&amp;nbsp; 为了获得项目组对于技术栈升级的认可，以及能让开发同学在紧张的产品需求之余能挤出一些buffer进行技术工作，我们一方面积极梳理技术栈升级能为我们带来研效提升的相关材料，给到产品侧去项目组游说，另一方面不断优化研发流程，能尽量挤出各种buffer去尽快提升技术栈升级的速度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="1500" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-94" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#994C00;fontColor=#FF8000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="969" y="1200" as="sourcePoint" />
+            <mxPoint x="969" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-95" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
