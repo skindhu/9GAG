@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T05:17:28.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iDyUkQQaqDVM9YzmUGCh" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T05:21:38.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1Glsd_DoGn3hQZdOO7wa" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,6 +176,15 @@
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-68" value="1. 责任制，团队内绝大部分同学的代码质量需要经过几个资深同学的把关，自己以身作则，花费大量精力去审查代码，同时也能倒逼大家对代码更严谨" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1020" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-70" value="2. 开发一个代码质量量化系统，通过具象的客观数据而不是模糊的主观感受去考察团队内每一位同学的代码能力" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1100" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-71" value="3. 定期复盘，总结最近一个周期内大家在写代码过程中遇到的共性问题，以及优化措施，让团队内每一位同学对好代码有一个具象认知，同时界定代码的下限，什么样的代码和涉及在团队中是坚决不能出现的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-74" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
