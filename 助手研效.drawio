@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:10:05.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="foky9w_0ExTg--bGOWP0" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:10:15.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NIqPxZ9_9ydT7b5uIcNs" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-97" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="957.5" y="1335" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-98" value="1. 不同项目组UI设计的千差万别给开发同学在处理这些碎片化的样式差异上带来了很多的工作量，由于新的方舟团队已经由我们自己的设计团队接手，那么可以借助方舟项目，通过我们的设计先制定出一套统一的标准，然后由他们和其它业务团队的外包设计对接，推动他们在后续的设计严格按照我们的标准执行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-98" value="1. 不同项目组UI设计的千差万别给开发同学在处理这些碎片化的样式差异上带来了很多的工作量，由于新的方舟团队已经由我们自己的设计团队接手，那么可以借助方舟项目，通过我们的设计先制定出一套统一的标准，然后由他们和其它业务团队的外包设计对接，推动他们在后续的设计严格按照我们的标准执行，逐步收敛差异" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="1480" width="215" height="65" as="geometry" />
         </mxCell>
       </root>
