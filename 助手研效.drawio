@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T06:50:39.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jX1RXS70bXurVxl26XEf" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:52:43.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="biR9dC7GrdyK_iO4P5Rl" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,6 +221,12 @@
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-86" value="&amp;nbsp;从不可能到逐步改善" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="1180" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1145" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-88" value="1. 经过分析，助手中产品规划的70%的需求都集中在咨询和动态两个模块，那我们将对助手全量代码进行技术栈升级转变为只对这两个大模块的代码进行技术栈升级能达到最高的ROI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="1295" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
