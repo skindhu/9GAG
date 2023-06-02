@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T07:14:37.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AbpRwKmm0HxrLknH9od8" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T07:20:04.784Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SgPVgnOeIjnJ3LUVrhmx" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-67" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="60" y="880" width="30" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-68" value="1. 责任制，团队内绝大部分同学的代码质量需要经过几个资深同学的把关，自己以身作则，花费大量精力去审查代码，同时也能倒逼大家对代码更严谨" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-68" value="1. 责任制，团队内绝大部分同学的代码质量需要经过几个资深同学的把关，Leader需以身作则，花费大量精力去审查代码，同时也能倒逼大家对代码更严谨" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1020" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-70" value="2. 开发一个代码质量量化系统，通过具象的客观数据而不是模糊的主观感受去考察团队内每一位同学的代码能力" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -195,8 +195,8 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-76" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="300" y="920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-77" value="从你进我退的拉扯到开发与产品各进一步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1030" width="135" height="40" as="geometry" />
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-77" value="从你进我退的拉扯到开发与产品各进一步，形成共赢" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="1030" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="355" y="1000" width="30" height="180" as="geometry" />
@@ -204,7 +204,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-81" value="1. 对于通用功能中夹杂的针对不同业务粒度大小不一的差异性，开发侧通过模块抽象、接口抽象、静态配置、动态配置四套规范来解决不同场景下的不一致问题，同时通过上述的CodeReview尽量约束大家按照规范执行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="1150" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-82" value="2. 和产品约定好，他们在规划通用需求时更加细致，将通用的功能细粒度化，逻辑通用、UI通用还是交互通用？让开发同学在需求开发过程中就能处理好差异点，避免后续的反复沟通和返工" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-82" value="2. 和产品约定好，他们在规划通用需求时需要更加细致，将通用的功能细粒度化，逻辑通用、UI通用还是交互通用？让开发同学在需求开发过程中就能处理好差异点，避免后续的反复沟通和返工" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-83" value="3. 开发同学拓展自己的技术栈，同时熟悉Andorid/iOS开发，这样可以从之前的按不同端不同人力来分配需求逐渐转变为同一个需求在不同端上都分配给同一个人力，提升各角色沟通和开发同学编码的效率，减小之前经常出现的多端因为对产品细节和技术方案理解的不同导致最终实现的不一致性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -231,7 +231,7 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-89" value="2.&amp;nbsp; 为了将技术栈升级的过程中对产品稳定性的影响降到最低，我们采取将大模块再拆分成小模块，逐步重构，逐步替换，同时开发了按照业务、模块、页面、功能等多维度开关来控制重构后的模块在线上的灰度策略，一旦出现严重问题可实时回滚到重构前的模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="1410" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-92" value="3.&amp;nbsp; 为了获得项目组对于技术栈升级的认可，以及能让开发同学在紧张的产品需求之余能挤出一些buffer进行技术工作，我们一方面积极梳理技术栈升级能为我们带来研效提升的相关材料，给到产品侧去项目组游说，另一方面不断优化研发流程，能尽量挤出各种buffer去尽快提升技术栈升级的速度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-92" value="3.&amp;nbsp; 为了获得项目组对于技术栈升级的认可，以及能让开发同学在紧张的产品需求之余能挤出一些buffer进行技术工作，我们一方面积极梳理技术栈升级能为我们带来研效提升的相关材料，给到产品侧去项目组游说，另一方面不断优化研发流程，能尽量挤出各种buffer去提升技术栈升级的速度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="552.5" y="1500" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-94" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#994C00;fontColor=#FF8000;" edge="1" parent="1">
