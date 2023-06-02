@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T06:26:52.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1ySVIOAjEF5E2pq4yK4s" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:30:27.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Xu7Paym_brq1_A7v9ViX" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,11 +204,23 @@
         <mxCell id="7GXHMdeB85PLB1f1P6ik-81" value="1. 对于通用功能中夹杂的针对不同业务粒度大小不一的差异性，开发侧通过模块抽象、接口抽象、静态配置、动态配置四套规范来解决不同场景下的不一致问题，同时通过上述的CodeReview尽量约束大家按照规范执行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="1150" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GXHMdeB85PLB1f1P6ik-82" value="2. 和产品约定好，他们在规划通用需求时更加细致，将通用的概念细粒度化，逻辑通用、UI通用还是交互通用？让开发同学在需求开发过程中就处理好差异点，避免后续的反复沟通和返工" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-82" value="2. 和产品约定好，他们在规划通用需求时更加细致，将通用的功能细粒度化，逻辑通用、UI通用还是交互通用？让开发同学在需求开发过程中就能处理好差异点，避免后续的反复沟通和返工" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-83" value="3. 开发同学拓展自己的技术栈，同时熟悉Andorid/iOS开发，这样可以从之前的按不同端不同人力来分配需求逐渐转变为同一个需求在不同端上都分配给同一个人力，提升各角色沟通和开发同学编码的效率，减小之前经常出现的多端因为对产品细节和技术方案理解的不同导致最终实现的不一致性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-84" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#994C00;fontColor=#FF8000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="1010" as="sourcePoint" />
+            <mxPoint x="645" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-85" value="优化方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=21;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1075" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GXHMdeB85PLB1f1P6ik-86" value="&amp;nbsp;从" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1180" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
