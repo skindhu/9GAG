@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T06:58:07.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i5bo4hX2qjIXcxZrdZSy" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T06:58:13.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zFTpjnIcaFMGboU5rrtj" version="21.2.1" type="github">
   <diagram name="第 1 页" id="eiPTsz_sVFmBQd02ulrV">
     <mxGraphModel dx="2069" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
           <mxGeometry x="552.5" y="1410" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7GXHMdeB85PLB1f1P6ik-92" value="2.&amp;nbsp; 为了在升级时对产品稳定性的影响降到最低，我们采取将大模块再拆分成小模块，逐步重构，逐步替换，同时开发了按照业务、模块、页面、功能等多维度开关来控制重构后的模块在线上的灰度策略，一旦出现严重问题可实时回滚到重构前的模块" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="552.5" y="1540" width="190" height="30" as="geometry" />
+          <mxGeometry x="552.5" y="1550" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
