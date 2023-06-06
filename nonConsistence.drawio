@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T03:23:58.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mfO5rFiQd-I0gmFe9o0w" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T03:24:20.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ul29-FiDIuJZaOrXtoBy" version="21.3.7" type="github">
   <diagram name="第 1 页" id="VlbDRRU05p334B86dTlG">
     <mxGraphModel dx="1242" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="374" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rPt64J2OixNxiuJa1zP-13" value="将一个大的App拆解成不同的功能模块，再通过某种方式可以让模块与模块之间进行通讯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="175" y="10" width="290" height="120" as="geometry" />
+          <mxGeometry x="145" y="10" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4rPt64J2OixNxiuJa1zP-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="140" width="80" height="40" as="geometry" />
