@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T03:33:37.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ksbpTYDdhEGsCbHMvXRU" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T03:34:51.739Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sglRXkph6zxtLi-PtGEo" version="21.3.7" type="github">
   <diagram name="第 1 页" id="VlbDRRU05p334B86dTlG">
     <mxGraphModel dx="1242" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="374" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rPt64J2OixNxiuJa1zP-13" value="将一个大的App拆解成不同的功能模块，再通过某种方式可以让模块与模块之间进行通讯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="145" y="10" width="290" height="120" as="geometry" />
+          <mxGeometry x="145" y="50" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4rPt64J2OixNxiuJa1zP-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="140" width="80" height="40" as="geometry" />
@@ -108,6 +108,30 @@
         </mxCell>
         <mxCell id="4rPt64J2OixNxiuJa1zP-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;组团&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="205" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;资讯&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;动态&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;……&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="300" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;专栏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;组团&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rPt64J2OixNxiuJa1zP-53" value="将不同的功能模块按需注册到不同的业务中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="790" y="20" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
