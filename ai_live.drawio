@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T08:29:15.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7JZMx1VbAxo2gsPHY-GH" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:34:18.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sqCWAWXzmMnZou6h4y-B" version="21.6.9" type="github">
   <diagram name="第 1 页" id="hJ_DBoBk-C-FibVK5ZLd">
     <mxGraphModel dx="1222" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,40 @@
           <mxGeometry x="50" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekaqmwFT2nG-b4KwDdkf-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;UE云渲染&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekaqmwFT2nG-b4KwDdkf-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;实时渲染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekaqmwFT2nG-b4KwDdkf-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;编码推流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Web播放端&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="870" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;视频解码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;视频渲染&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;腾讯云转码服务器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;腾讯云流媒体CDN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="300" as="sourcePoint" />
+            <mxPoint x="496" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
