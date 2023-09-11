@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T08:40:54.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J9atECehYG01VeZIGDzO" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:42:22.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ACOGL3MfJVibOt_CHZOf" version="21.6.9" type="github">
   <diagram name="第 1 页" id="hJ_DBoBk-C-FibVK5ZLd">
     <mxGraphModel dx="1222" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
           <mxGeometry x="-0.6333" y="-18" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ekaqmwFT2nG-b4KwDdkf-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekaqmwFT2nG-b4KwDdkf-26" value="AI直播大致链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="150" height="30" as="geometry" />
