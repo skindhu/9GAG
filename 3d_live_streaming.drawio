@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:17:41.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9obdaXMd04z8HHMuTpDT" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T06:20:02.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kGA-yoU9kddt8u3Wg13z" version="21.7.4" type="github">
   <diagram name="第 1 页" id="HSuSrPvIt5fl3jvaZxwd">
     <mxGraphModel dx="2049" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,11 @@
         <mxCell id="60VmntQxT6lIjvBKtyY4-1" value="动作/表情驱动算法模型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60VmntQxT6lIjvBKtyY4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="60VmntQxT6lIjvBKtyY4-4" target="60VmntQxT6lIjvBKtyY4-8">
+        <mxCell id="60VmntQxT6lIjvBKtyY4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.156;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="60VmntQxT6lIjvBKtyY4-4" target="60VmntQxT6lIjvBKtyY4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="60VmntQxT6lIjvBKtyY4-31" value="WebSocket长链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="60VmntQxT6lIjvBKtyY4-30">
-          <mxGeometry x="-0.1098" y="-1" relative="1" as="geometry">
+        <mxCell id="60VmntQxT6lIjvBKtyY4-47" value="WebSocket长链接，推送表情、肢体、语音数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="60VmntQxT6lIjvBKtyY4-30">
+          <mxGeometry x="0.0127" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -79,6 +79,19 @@
         </mxCell>
         <mxCell id="60VmntQxT6lIjvBKtyY4-13" value="直播平台&lt;br&gt;推流工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="565" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="60VmntQxT6lIjvBKtyY4-15" target="60VmntQxT6lIjvBKtyY4-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="805" />
+              <mxPoint x="820" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-45" value="弹幕转语音" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="60VmntQxT6lIjvBKtyY4-44">
+          <mxGeometry x="0.1583" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="60VmntQxT6lIjvBKtyY4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="100" y="750" width="430" height="110" as="geometry" />
