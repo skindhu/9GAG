@@ -1,17 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T03:18:58.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gzCFXE_GFFyRYBjWobfY" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T03:23:03.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7dDYu5Gol3tMEJegA6Ui" version="21.7.4" type="github">
   <diagram name="第 1 页" id="HSuSrPvIt5fl3jvaZxwd">
     <mxGraphModel dx="1222" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="60VmntQxT6lIjvBKtyY4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="60VmntQxT6lIjvBKtyY4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="100" y="160" width="430" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="60VmntQxT6lIjvBKtyY4-1" value="动作/表情驱动算法模型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="60VmntQxT6lIjvBKtyY4-1" value="动作/表情驱动算法模型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="60VmntQxT6lIjvBKtyY4-4" value="算法工程Server" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="60VmntQxT6lIjvBKtyY4-4" value="算法工程Server" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-6" value="UE实时驱动渲染" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="135" y="365" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-7" value="像素推流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="345" y="365" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="600" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-10" value="Web视频渲染" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="565" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-11" value="其它Overlay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="565" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-12" value="OBS捕获" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="565" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60VmntQxT6lIjvBKtyY4-13" value="直播平台&lt;br&gt;推流工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="565" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
