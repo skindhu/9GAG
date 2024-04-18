@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T09:12:14.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZmtXIjTM-QioWgO1-6dM" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T11:09:31.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TO3pRi-kEERc4aMoiXuc" version="24.2.2" type="github">
   <diagram name="第 1 页" id="uSWp1kO9mq3VQEvF_lTH">
     <mxGraphModel dx="1242" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,43 +50,139 @@
           <mxGeometry x="1034" y="90" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-320" width="300" height="280" as="geometry" />
+          <mxGeometry x="160" y="-320" width="300" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-19" value="超核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-310" width="60" height="30" as="geometry" />
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-19" value="超核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="-310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-20" value="提升服务容量、建联效率、服务质量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-270" width="260" height="30" as="geometry" />
+          <mxGeometry x="180" y="-270" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-21" value="账号托管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-230" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="-210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-22" value="（251个）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="-230" width="80" height="30" as="geometry" />
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-22" value="（251+）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="-210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-23" value="建联大R用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-200" width="110" height="30" as="geometry" />
+          <mxGeometry x="200" y="-180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-24" value="（135w）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="319" y="-200" width="80" height="30" as="geometry" />
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-24" value="（135w+）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="-180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-28" value="建联速度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-170" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="-150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-29" value="（1.4w/天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="313" y="-170" width="110" height="30" as="geometry" />
+          <mxGeometry x="293" y="-150" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-33" value="3min响应率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="225.5" y="-140" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="205.5" y="-120" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-34" value="（90%）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="322" y="-140" width="70" height="30" as="geometry" />
+          <mxGeometry x="302" y="-120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-35" value="渠道流水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="235.75" y="-110" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="215.75" y="-90" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-36" value="（35亿/年）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="313" y="-110" width="110" height="30" as="geometry" />
+          <mxGeometry x="293" y="-90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.993;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FwOD_YeCZ98qcEM11IYZ-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="-230" as="sourcePoint" />
+            <mxPoint x="390" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-320" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-39" value="知几" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="-310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-40" value="AI维系用户价值落地私域运营" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-270" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-41" value="账号托管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-42" value="（150+）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="-210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-43" value="建联大R用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-44" value="（125w+）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="644" y="-180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-45" value="建联速度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-46" value="（1.7w/天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="633" y="-150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-47" value="3min响应率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="-120" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-48" value="（90%）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="642" y="-120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-49" value="渠道流水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="555.75" y="-90" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-50" value="（）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="633" y="-90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.993;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FwOD_YeCZ98qcEM11IYZ-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="-230" as="sourcePoint" />
+            <mxPoint x="730" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-320" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-53" value="俱乐部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="954" y="-310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-54" value="提升服务容量、建联效率、服务质量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-270" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-55" value="账号托管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-56" value="（251个）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="990" y="-210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-57" value="建联大R用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-58" value="（135w）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="989" y="-180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-59" value="建联速度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-60" value="（1.4w/天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="983" y="-150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-61" value="3min响应率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="895.5" y="-120" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-62" value="（90%）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="992" y="-120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-63" value="渠道流水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="905.75" y="-90" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-64" value="（35亿/年）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="983" y="-90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.993;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FwOD_YeCZ98qcEM11IYZ-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="-230" as="sourcePoint" />
+            <mxPoint x="1080" y="-230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
