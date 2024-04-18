@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T09:02:29.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QIDN8BUt0yooiMJw92ri" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T09:11:28.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wJr6v7jZu2Tw4RHhDAgR" version="24.2.2" type="github">
   <diagram name="第 1 页" id="uSWp1kO9mq3VQEvF_lTH">
     <mxGraphModel dx="1242" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,30 @@
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-20" value="提升服务容量、建联效率、服务质量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="-270" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-21" value="账号托管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-22" value="（251个）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="-230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-23" value="建联大R用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-24" value="（135w）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="319" y="-200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-28" value="建联速度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-29" value="（1.4w/天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="313" y="-170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-33" value="3min响应率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="225.5" y="-140" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-34" value="（90%）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="322" y="-140" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
