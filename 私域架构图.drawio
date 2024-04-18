@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T11:13:49.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_AdhD-d0ir8tFhW1OWLt" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T11:14:31.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QtOBiAO2EpiUC420_uGr" version="24.2.2" type="github">
   <diagram name="第 1 页" id="uSWp1kO9mq3VQEvF_lTH">
     <mxGraphModel dx="1242" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="555.75" y="-90" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-50" value="（4100w+/24年）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="633" y="-90" width="147" height="30" as="geometry" />
+          <mxGeometry x="635" y="-90" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.993;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FwOD_YeCZ98qcEM11IYZ-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -145,7 +145,7 @@
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-53" value="俱乐部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="954" y="-310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-54" value="提升服务容量、建联效率、服务质量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-54" value="提升俱乐部思域群运营效率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="870" y="-270" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-55" value="账号托管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
