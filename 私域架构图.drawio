@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T08:43:31.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Fnr9OGdWAlhH6Ojp6elo" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T08:44:15.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5jwea7Tb3EhgZioLK_fX" version="24.2.2" type="github">
   <diagram name="第 1 页" id="uSWp1kO9mq3VQEvF_lTH">
     <mxGraphModel dx="1242" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="380" width="980" height="110" as="geometry" />
+          <mxGeometry x="170" y="390" width="980" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-1" value="微信&lt;br&gt;&lt;font color=&quot;#660000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;（103个破解功能）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="410" width="170" height="60" as="geometry" />
+          <mxGeometry x="210" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-3" value="企微&lt;div&gt;&lt;b style=&quot;color: rgb(102, 0, 0); font-size: 14px;&quot;&gt;（121个破解功能）&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="170" height="60" as="geometry" />
+          <mxGeometry x="460" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-4" value="QQ&lt;br&gt;&lt;b style=&quot;color: rgb(102, 0, 0); font-size: 14px;&quot;&gt;（86个破解功能）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="170" height="60" as="geometry" />
+          <mxGeometry x="710" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-5" value="QQ空间&lt;br&gt;&lt;b style=&quot;color: rgb(102, 0, 0); font-size: 14px;&quot;&gt;（6个破解功能）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="410" width="170" height="60" as="geometry" />
+          <mxGeometry x="960" y="420" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-7" value="功能破解" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="250" width="170" height="60" as="geometry" />
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-7" value="业务所需核心功能破解" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-9" value="持续安全对抗降低封号率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
