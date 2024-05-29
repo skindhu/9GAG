@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T02:51:29.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gs7npmLp4-4IT20cPZPI" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T02:54:28.248Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cQQC-z9PVCG0FFX8kyH1" version="24.4.4" type="github">
   <diagram name="第 1 页" id="uSWp1kO9mq3VQEvF_lTH">
     <mxGraphModel dx="1242" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-49" value="渠道流水" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="555.75" y="-90" width="108.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FwOD_YeCZ98qcEM11IYZ-50" value="（4100w+/24年）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="FwOD_YeCZ98qcEM11IYZ-50" value="（7000w+/24年）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000099;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="635" y="-90" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FwOD_YeCZ98qcEM11IYZ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.993;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FwOD_YeCZ98qcEM11IYZ-38" edge="1">
