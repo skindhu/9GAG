@@ -10,6 +10,9 @@
         <mxCell id="YncoGZfrOfIXqg6F_l0_-6" value="待发布的&lt;br&gt;朋友圈内容" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YncoGZfrOfIXqg6F_l0_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YncoGZfrOfIXqg6F_l0_-7" target="YncoGZfrOfIXqg6F_l0_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YncoGZfrOfIXqg6F_l0_-7" value="确认发送" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="443.5" width="86" height="33" as="geometry" />
         </mxCell>
