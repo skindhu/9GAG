@@ -13,6 +13,15 @@
         <mxCell id="YncoGZfrOfIXqg6F_l0_-7" value="确认发送" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="443.5" width="86" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="YncoGZfrOfIXqg6F_l0_-8" value="用来制作朋友圈模版的微信账号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YncoGZfrOfIXqg6F_l0_-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YncoGZfrOfIXqg6F_l0_-10" value="在该微信上编辑朋友圈并发布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="145" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
