@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="r8n0otCuOx0sQn8kWmIR">
-    <mxGraphModel>
+    <mxGraphModel dx="2069" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQfAdSFWjcPZuRLwrpEE-1" target="DQfAdSFWjcPZuRLwrpEE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-1" value="AI需求转代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=16;fontStyle=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-3" value="&lt;b&gt;AI 主导，人辅助&lt;br&gt;（自研Multi-Agent）&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="80" width="183.33" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" edge="1" parent="1" source="DQfAdSFWjcPZuRLwrpEE-1" target="DQfAdSFWjcPZuRLwrpEE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-5" value="人工结合AI生成的代码框架进行修正，并使用AI进行代码补全" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-7" value="&lt;b&gt;人主导，AI辅助&lt;br&gt;（Ghitub Copilot）&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="183.33" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;dashed=1;" edge="1" parent="1" source="DQfAdSFWjcPZuRLwrpEE-5" target="DQfAdSFWjcPZuRLwrpEE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-9" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;进度：&lt;/font&gt;&lt;font color=&quot;#cc6600&quot;&gt;探索中&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="350" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-10" value="&lt;span&gt;&lt;font color=&quot;#000099&quot;&gt;进度：&lt;/font&gt;&lt;font color=&quot;#006600&quot;&gt;已实现&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DQfAdSFWjcPZuRLwrpEE-11" value="AI需求转用例&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="260" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
