@@ -100,6 +100,9 @@
         <mxCell id="KAl-MF6hwwFQekzXLP5y-46" value="评论集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="620" y="140" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-47" value="四级资产" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="75" width="20" height="135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
