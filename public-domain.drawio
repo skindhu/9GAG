@@ -109,17 +109,56 @@
         <mxCell id="KAl-MF6hwwFQekzXLP5y-50" value="内容理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-200" y="-282.5" width="40" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="KAl-MF6hwwFQekzXLP5y-53" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;传统算法&lt;br&gt;(OpenCV)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="-290" width="185" height="80" as="geometry" />
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-53" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;传统算法&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-290" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KAl-MF6hwwFQekzXLP5y-54" value="兼顾效率与成本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-140" y="-282.5" width="20" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="KAl-MF6hwwFQekzXLP5y-55" value="视频封面图OCR&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="65" y="-530" width="130" height="50" as="geometry" />
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-57" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Qwen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="-290" width="142.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KAl-MF6hwwFQekzXLP5y-57" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;QWen&lt;br&gt;(OpenCV)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-290" width="185" height="80" as="geometry" />
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-58" value="海量内容的过滤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-147.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-60" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="14.410000000000025" y="-210" as="sourcePoint" />
+            <mxPoint x="14.410000000000025" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-61" value="视频字幕的提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-147.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-62" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258.15999999999997" y="-200" as="sourcePoint" />
+            <mxPoint x="258.15999999999997" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-63" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;OpenAI Whisper&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-290" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-64" value="视频语音转文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="-147.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-65" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505.90999999999997" y="-200" as="sourcePoint" />
+            <mxPoint x="505.90999999999997" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-66" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Google Gemini&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="-290" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-67" value="文本内容的理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-68" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="-200" as="sourcePoint" />
+            <mxPoint x="780" y="-150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
