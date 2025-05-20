@@ -109,6 +109,12 @@
         <mxCell id="KAl-MF6hwwFQekzXLP5y-50" value="内容理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-200" y="-282.5" width="40" height="135" as="geometry" />
         </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-53" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;传统算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-282.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-54" value="兼顾效率与成本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-282.5" width="20" height="135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
