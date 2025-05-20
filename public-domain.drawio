@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KAl-MF6hwwFQekzXLP5y-79" value="全网挖掘" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="16.5" y="-640" width="167" height="30" as="geometry" />
+          <mxGeometry x="16.5" y="-640" width="83.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KAl-MF6hwwFQekzXLP5y-80" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -240,6 +240,24 @@
             <mxPoint x="230" y="-470" as="sourcePoint" />
             <mxPoint x="230" y="-660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-95" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="-625.59" as="sourcePoint" />
+            <mxPoint x="290" y="-625.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-96" value="针对不同游戏&lt;br&gt;定向挖掘" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-633" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-97" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="-567" as="sourcePoint" />
+            <mxPoint x="291" y="-567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAl-MF6hwwFQekzXLP5y-98" value="建联" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-581" width="120.12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
