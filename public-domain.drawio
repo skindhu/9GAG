@@ -176,7 +176,7 @@
           <mxGeometry x="-200" y="-672" width="40" height="135" as="geometry" />
         </mxCell>
         <mxCell id="KAl-MF6hwwFQekzXLP5y-74" value="的价值提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-680" width="40" height="135" as="geometry" />
+          <mxGeometry x="-160" y="-680" width="40" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
