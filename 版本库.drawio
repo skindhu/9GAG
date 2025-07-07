@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l_rAGHzvP1hkogM0Dtjf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="l_rAGHzvP1hkogM0Dtjf-1" target="l_rAGHzvP1hkogM0Dtjf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l_rAGHzvP1hkogM0Dtjf-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;全面&lt;/b&gt;&lt;/font&gt;、&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;准确&lt;/b&gt;&lt;/font&gt;、&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;深入&lt;/b&gt;&lt;/font&gt;的游戏新版本内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="170" height="80" as="geometry" />
         </mxCell>
@@ -20,6 +23,15 @@
         </mxCell>
         <mxCell id="l_rAGHzvP1hkogM0Dtjf-5" value="官方版本报告一般都比较简单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="47.5" y="-110" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l_rAGHzvP1hkogM0Dtjf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="l_rAGHzvP1hkogM0Dtjf-6" target="l_rAGHzvP1hkogM0Dtjf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_rAGHzvP1hkogM0Dtjf-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结合玩家的游戏数据从版本内容中提取出玩家可能最感兴趣的内容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l_rAGHzvP1hkogM0Dtjf-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;形成版本报告&lt;br&gt;推送给玩家&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
