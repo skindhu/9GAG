@@ -14,16 +14,16 @@
           <mxGeometry x="-120" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-10" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="30" y="90" width="750" height="150" as="geometry" />
+          <mxGeometry x="30" y="110" width="750" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-11" value="反外挂打击&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（攻与防）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="70" y="120" width="170" height="90" as="geometry" />
+          <mxGeometry x="70" y="140" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-13" value="版本自动化升级&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（30人日降到2人日）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="220" height="90" as="geometry" />
+          <mxGeometry x="280" y="140" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-14" value="私域AI排障&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（1小时降到2分钟）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="540" y="120" width="180" height="90" as="geometry" />
+          <mxGeometry x="540" y="140" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-16" value="企微&lt;br&gt;&lt;b style=&quot;color: rgb(153, 0, 0); font-family: Verdana; font-size: 15px;&quot;&gt;（121个破解功能）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="305" y="310" width="170" height="85" as="geometry" />
@@ -32,19 +32,22 @@
           <mxGeometry x="545" y="310" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-1" value="稳定性与效率保障" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="160" width="210" height="30" as="geometry" />
+          <mxGeometry x="-200" y="180" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-120" width="750" height="150" as="geometry" />
+          <mxGeometry x="30" y="-70" width="750" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-3" value="自研多开APP&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（33台手机， 2063账号）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-90" width="200" height="90" as="geometry" />
+          <mxGeometry x="70" y="-40" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-4" value="自研私域辅助APP&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（批量发朋友圈[4318]、微信AI问答[3282]、&lt;br&gt;qq推荐好友添加[2331]、王者营地数据[2566]）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-100" width="370" height="110" as="geometry" />
+          <mxGeometry x="340" y="-50" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-5" value="扩大能力圈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-60" width="210" height="30" as="geometry" />
+          <mxGeometry x="-170" y="-10" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iWFc-1cAknwyF5nsxrdl-6" value="扩大能力圈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-210" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
