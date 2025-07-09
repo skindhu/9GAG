@@ -28,7 +28,7 @@
         <mxCell id="Lz09PXeNm3lCibMd2Dtf-17" value="QQ&lt;br&gt;&lt;b style=&quot;color: rgb(153, 0, 0); font-family: Verdana; font-size: 15px;&quot;&gt;（93个破解功能）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="400" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="iWFc-1cAknwyF5nsxrdl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="iWFc-1cAknwyF5nsxrdl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-140" width="750" height="220" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-3" value="自研多开APP&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;（33台手机， 2063账号）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
           <mxGeometry x="10" y="-460" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-43" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e1d5e7;strokeColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-440" width="20" height="40" as="geometry" />
+          <mxGeometry x="375" y="-430" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-47" value="&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 23px;&quot;&gt;扩大能力范围&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=24;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-140" width="750" height="40" as="geometry" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="iWFc-1cAknwyF5nsxrdl-55" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="363.99" y="350" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iWFc-1cAknwyF5nsxrdl-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="iWFc-1cAknwyF5nsxrdl-43" target="iWFc-1cAknwyF5nsxrdl-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
