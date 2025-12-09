@@ -53,19 +53,19 @@
           <mxGeometry height="30" width="90" x="330" y="410" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="130" width="520" x="140" y="550" as="geometry" />
+          <mxGeometry height="130" width="520" x="130" y="550" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" value="编译产物" vertex="1">
-          <mxGeometry height="30" width="105" x="337.5" y="565" as="geometry" />
+          <mxGeometry height="30" width="105" x="327.5" y="565" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" value="Working Context（工作上下文）" vertex="1">
-          <mxGeometry height="30" width="276" x="256" y="600" as="geometry" />
+          <mxGeometry height="30" width="276" x="246" y="600" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=28;" value="=" vertex="1">
-          <mxGeometry height="30" width="40" x="300" y="640" as="geometry" />
+          <mxGeometry height="30" width="40" x="290" y="640" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=17;" value="发送给LLM的最终提示词" vertex="1">
-          <mxGeometry height="30" width="230" x="320" y="640" as="geometry" />
+          <mxGeometry height="30" width="230" x="310" y="640" as="geometry" />
         </mxCell>
         <mxCell id="NRBpCl9NE6LMoKmDUKdd-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
